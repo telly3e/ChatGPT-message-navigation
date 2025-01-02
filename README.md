@@ -16,20 +16,23 @@
 ### 1. 安装 Tampermonkey 扩展
 首先需要您在浏览器中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展，Tampermonkey支持以下浏览器：
 
-- [Chrome 扩展商店 - Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [Edge 扩展商店 - Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd)
-- [Firefox 附加组件商店 - Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+- <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Chrome 扩展商店 - Tampermonkey</a>
+- <a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd" target="_blank">Edge 扩展商店 - Tampermonkey</a>
+- <a href="https://addons.mozilla.org/firefox/addon/tampermonkey/" target="_blank">Firefox 附加组件商店 - Tampermonkey</a>
+
 
 ### 2. 安装脚本
 点击下面的链接，一键安装脚本：
 
-- [安装 ChatGPT 消息导航脚本](https://github.com/telly3e/ChatGPT-message-navigation/raw/refs/heads/master/script.user.js)
-
+- <a href="https://github.com/telly3e/ChatGPT-message-navigation/raw/refs/heads/master/script.user.js" target="_blank">安装 ChatGPT 消息导航脚本</a>
+- 
 安装后，您可以在 [ChatGPT](https://chatgpt.com) 网页中享受该功能。
 
 ---
 
 ## 功能展示
+![showcase](showcase.png)
+
 
 ### 导航栏界面
 - **圆角边框设计**：导航栏在页面右上角显示，支持隐藏/显示切换。
