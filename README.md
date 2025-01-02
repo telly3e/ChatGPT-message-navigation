@@ -14,18 +14,18 @@
 ## 安装指南
 
 ### 1. 安装 Tampermonkey 扩展
-在您的浏览器中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展，支持以下浏览器：
+首先需要您在浏览器中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展，Tampermonkey支持以下浏览器：
 
 - [Chrome 扩展商店 - Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [Edge 扩展商店 - Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [Edge 扩展商店 - Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd)
 - [Firefox 附加组件商店 - Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
 ### 2. 安装脚本
 点击下面的链接，一键安装脚本：
 
-- [安装 ChatGPT 消息导航脚本](https://example.com/chatgpt-navigation.user.js)
+- [安装 ChatGPT 消息导航脚本](https://github.com/telly3e/ChatGPT-message-navigation/raw/refs/heads/master/script.user.js)
 
-安装后，您可以在 ChatGPT 网页或桌面应用中享受该功能。
+安装后，您可以在 [ChatGPT](https://chatgpt.com) 网页中享受该功能。
 
 ---
 
@@ -48,13 +48,6 @@
 - 支持动态检测对话切换。
 - 提供隐藏/显示导航栏的控制按钮。
 
----
 
-## 开发者
-
-ChatGPT 4o
-
-- **GitHub Issues**：欢迎提交问题或功能建议。
-- **Pull Request**：如果您想贡献代码，可以提交 PR。
 
 
