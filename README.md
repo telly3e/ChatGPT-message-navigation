@@ -25,7 +25,7 @@
 点击下面的链接，一键安装脚本：
 
 - <a href="https://github.com/telly3e/ChatGPT-message-navigation/raw/refs/heads/master/script.user.js" target="_blank">安装 ChatGPT 消息导航脚本</a>
-- 
+
 安装后，您可以在 [ChatGPT](https://chatgpt.com) 网页中享受该功能。
 
 ---
