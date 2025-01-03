@@ -17,21 +17,25 @@
 首先需要您在浏览器中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展，Tampermonkey支持以下浏览器：
 
 - <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Chrome 扩展商店 - Tampermonkey</a>
+
 - <a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd" target="_blank">Edge 扩展商店 - Tampermonkey</a>
+
 - <a href="https://addons.mozilla.org/firefox/addon/tampermonkey/" target="_blank">Firefox 附加组件商店 - Tampermonkey</a>
 
+如果您是使用基于Chrome浏览器的 tampermonkey 用户，请确认开启开发者模式
+- [点我查看如何开启开发者模式](https://www.tampermonkey.net/faq.php#Q209)
 
 ### 2. 安装脚本
 点击下面的链接，一键安装脚本：
 
-- <a href="https://github.com/telly3e/ChatGPT-message-navigation/raw/refs/heads/master/script.user.js" target="_blank">安装 ChatGPT 消息导航脚本</a>
+- <a href="https://github.com/telly3e/ChatGPT-message-navigation/raw/refs/heads/master/script.user.js" target="_blank">点我安装 ChatGPT 消息导航脚本</a>
 
 安装后，您可以在 [ChatGPT](https://chatgpt.com) 网页中享受该功能。
 
 ---
 
 ## 功能展示
-![showcase](showcase.png)
+![展示](image.png)
 
 
 ### 导航栏界面
@@ -46,11 +50,15 @@
 
 ## 更新日志
 
-### v1.0.0
+### v1.0
 - 实现基本的用户消息导航功能。
 - 支持动态检测对话切换。
 - 提供隐藏/显示导航栏的控制按钮。
 
+### v1.1
+- 增加了深色/浅色模式自动切换
+- 默认收起导航栏
+- 设置了脚本的自动更新url
 
 
 
